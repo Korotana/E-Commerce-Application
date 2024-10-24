@@ -1,4 +1,4 @@
-# Online-shop
+# E-Commerce App
 This is a web application in which you can Sign Up, Sign In and browse and buy listed products. 
 
 Admin login - Perform all CRUD operations on orders and products. 
